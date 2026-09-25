@@ -1,5 +1,3 @@
-# oscar-pecas-servicos-
-
 # Oscar Peças Serviços
 
 ## Descrição do projeto
